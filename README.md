@@ -7,5 +7,6 @@ I have analysed the several data like:
 4. Correlation
 5. Value at Risk Analysis
 
-For implementing this project I have used: Pandas, Numpy for Data processing 
-                                           Seaborn, Matplotlib, Plotly for Data Visulization.
+For implementing this project I have used: 
+1. Pandas, Numpy for Data processing 
+2.Seaborn, Matplotlib, Plotly for Data Visulization.

@@ -9,4 +9,4 @@ I have analysed the several data like:
 
 For implementing this project I have used: 
 1. Pandas, Numpy for Data processing 
-2.Seaborn, Matplotlib, Plotly for Data Visulization.
+2. Seaborn, Matplotlib, Plotly for Data Visulization.

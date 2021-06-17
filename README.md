@@ -1,6 +1,6 @@
 # Stock-Price-Analysis
 Its A Time Series Data Analysis Project in which I have taken stock prices of the world 4 leading MNC's Google, Microsoft, Amazon, Apple.
-I have analysed the several data like:
+I have analyzed the several data like:
 1. Closing Price
 2. Volume
 3. Daily Stock Return

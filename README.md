@@ -22,6 +22,7 @@ Pair plot for Stock Prices
 ![plot](./13.png)
 
 Co-relation plot for stock prices
+
 ![plot](./14.png)
 
 Distribution plot

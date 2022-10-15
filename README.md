@@ -2,8 +2,7 @@
 
 ## Description
 
-It is a Data Analysis based on Time Series in which I have taken stock prices of the world 4 leading MNC's Google, Microsoft, Amazon, Apple.
-I have analyzed the several data like:
+It is a Data Analysis based on Time Series in which stock prices of the world 4 leading MNC's Google, Microsoft, Amazon, Apple have been analyzed on the points like-
 1. Closing Price
 2. Volume
 3. Daily Stock Return

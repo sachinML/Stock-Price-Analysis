@@ -2,7 +2,7 @@
 
 ## Description
 
-Its a Time Series Data Analysis Project in which I have taken stock prices of the world 4 leading MNC's Google, Microsoft, Amazon, Apple.
+It is a Data Analysis based on Time Series in which I have taken stock prices of the world 4 leading MNC's Google, Microsoft, Amazon, Apple.
 I have analyzed the several data like:
 1. Closing Price
 2. Volume
